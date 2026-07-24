@@ -90,6 +90,12 @@ github:
   tooltip: GitHub
   link: https://github.com/$VALUE
 
+personal_site:
+  icon: a-solid fa-house-user
+  text: Personal Site
+  tooltip: Website
+  link: $VALUE
+
 twitter:
   icon: fa-brands fa-twitter
   text: Twitter
