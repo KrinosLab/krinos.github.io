@@ -1,282 +1,561 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.patter.2026.101514
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.64898/2026.01.13.699386
+  title: Nutrient response strategies drive coastal range shifts of phytoplankton
+    taxa
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Patterns
-  date: '2026-05-01'
-  link: https://doi.org/hbvg3p
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
-  authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
+  - Arianna I. Krinos
+  - Margaret Mars Brisbin
+  - Amy Costa
+  - Sara K. Shapiro
+  - Michael J. Follows
+  - Mara A. Freilich
+  - Harriet Alexander
   publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  date: '2026-01-14'
+  link: https://doi.org/hcdz5w
+  orcid: 0000-0001-9767-8392
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1038/s41564-025-02097-2
+  title: A call for early-career teams in interdisciplinary microbiology research
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Arianna I. Krinos
+  - Daniel Muratore
+  - Meriel J. Bittner
+  - Preston Akenga
+  - Leslie Wallace Auerbach
+  - Michael Dills
+  - Emile Faure
+  - Edgart Flores
+  - Naomi M. Levine
+  - Thiago Monteiro
+  - Camille Richon
+  - Benjamin S. Twining
+  publisher: Nature Microbiology
+  date: '2025-08-25'
+  link: https://doi.org/hcdz5x
+  orcid: 0000-0001-9767-8392
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1101/2025.03.26.645542
+  title: Global Environmental Genomics Reveals Vast Uncultivated Protist Diversity
+    and Taxonomic Blind Spots
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - "Miguel F. Romero-Guti\xE9rrez"
+  - Arianna I. Krinos
+  - Xyrus Maurer-Alcala
+  - John A. Burns
+  - Ramunas Stepanauskas
+  - Tanja Woyke
+  - Frederik Schulz
   publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2025-03-26'
+  link: https://doi.org/hcdz5z
+  orcid: 0000-0001-9767-8392
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1111/ele.70055
+  title: Intraspecific Diversity in Thermal Performance Determines Phytoplankton Ecological
+    Niche
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Arianna I. Krinos
+  - Sara K. Shapiro
+  - Weixuan Li
+  - Sheean T. Haley
+  - Sonya T. Dyhrman
+  - Stephanie Dutkiewicz
+  - Michael J. Follows
+  - Harriet Alexander
+  publisher: Ecology Letters
+  date: '2025-01-01'
+  link: https://doi.org/hcdz52
+  orcid: 0000-0001-9767-8392
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1111/JPY.70051
+  title: "Exploring the Phaeosphere: Characterizing the microbiomes of\n         \
+    \           <i>Phaeocystis antarctica</i>\n                    colonies from the\
+    \ coastal Southern Ocean and laboratory culture"
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Margaret Mars Brisbin
+  - McCaela Acord
+  - Rachel Davitt
+  - Shavonna Bent
+  - Benjamin A. S. Van Mooy
+  - Eliott Flaum
+  - Andreas Norlin
+  - Jessica Turner
+  - Arianna Krinos
+  - Harriet Alexander
+  - Mak Saito
+  publisher: Journal of Phycology
+  date: '2025-07-07'
+  link: https://doi.org/hcdz53
+  orcid: 0000-0001-9767-8392
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.06.22.660956
+  title: New niches for larger phytoplankton in a warmer, more resource-limited ocean
+  authors:
+  - Suzana G. Leles
+  - Lara Breithaupt
+  - Arianna Krinos
+  - Harriet Alexander
+  - Holly V. Moeller
+  - Lana Flanjak
+  - Charlotte Laufkotter
+  - Elena Litchman
+  - "Mar\xEDa Aranguren-Gassis"
+  - Naomi M. Levine
   publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2025-06-27'
+  link: https://doi.org/hcdz54
+  orcid: 0000-0001-9767-8392
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.7717/PEERJ.20328
+  title: The Nextflow nf-core/metatdenovo pipeline for reproducible annotation of
+    metatranscriptomes, and more
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Danilo Di Leo
+  - Emelie Nilsson
+  - Arianna Krinos
+  - Jarone Pinhassi
+  - Daniel Lundin
+  publisher: PeerJ
+  date: '2025-12-05'
+  link: https://doi.org/hbhg36
+  orcid: 0000-0001-9767-8392
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1038/s41467-024-52212-w
+  title: Missing microbial eukaryotes and misleading meta-omic conclusions
   authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
+  - Arianna I. Krinos
+  - Margaret Mars Brisbin
+  - Sarah K. Hu
+  - Natalie R. Cohen
+  - Tatiana A. Rynearson
+  - Michael J. Follows
+  - Frederik Schulz
+  - Harriet Alexander
+  publisher: Nature Communications
+  date: '2024-11-14'
+  link: https://doi.org/hcdz55
+  orcid: 0000-0001-9767-8392
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1575/1912/70395
+  title: 'Decoding divergence in marine protistan communities: from strain diversity
+    to basin biogeography'
+  authors:
+  - Arianna I. Krinos Quinn
+  publisher: MBLWHOI Library
+  date: ''
+  link: https://doi.org/hcdz56
+  orcid: 0000-0001-9767-8392
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s40168-024-01831-y
+  title: Time-series metagenomics reveals changing protistan ecology of a temperate
+    dimictic lake
+  authors:
+  - "Arianna\_I. Krinos"
+  - "Robert\_M. Bowers"
+  - "Robin\_R. Rohwer"
+  - "Katherine\_D. McMahon"
+  - Tanja Woyke
+  - Frederik Schulz
+  publisher: Microbiome
+  date: '2024-07-20'
+  link: https://doi.org/hbhf8z
+  orcid: 0000-0001-9767-8392
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.02.14.580366
+  title: Intraspecific diversity in thermal performance determines phytoplankton ecological
+    niche
+  authors:
+  - Arianna I. Krinos
+  - Sara K. Shapiro
+  - Weixuan Li
+  - Sheean T. Haley
+  - Sonya T. Dyhrman
+  - Stephanie Dutkiewicz
+  - Michael J. Follows
+  - Harriet Alexander
   publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  date: '2024-02-15'
+  link: https://doi.org/hcdz57
+  orcid: 0000-0001-9767-8392
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1038/S41467-024-51583-4
+  title: Microeukaryote metabolism across the western North Atlantic Ocean revealed
+    through autonomous underwater profiling
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Natalie R. Cohen
+  - Arianna I. Krinos
+  - Riss M. Kell
+  - Rebecca J. Chmiel
+  - Dawn M. Moran
+  - Matthew R. McIlvin
+  - Paloma Z. Lopez
+  - Alexander J. Barth
+  - Joshua P. Stone
+  - Brianna A. Alanis
+  - Eric W. Chan
+  - John A. Breier
+  - Michael V. Jakuba
+  - Rod Johnson
+  - Harriet Alexander
+  - Mak A. Saito
+  publisher: Nature Communications
+  date: '2024-08-25'
+  link: https://doi.org/hcdz58
+  orcid: 0000-0001-9767-8392
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1111/1462-2920.16556
+  title: 'Protistan community composition and metabolism in the North Pacific Subtropical
+    Gyre: Influences of mesoscale eddies and depth'
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+  - Samantha J. Gleich
+  - Sarah K. Hu
+  - Arianna I. Krinos
+  - David A. Caron
+  publisher: Environmental Microbiology
+  date: '2023-12-11'
+  link: https://doi.org/hcdz59
+  orcid: 0000-0001-9767-8392
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.02.09.579653
+  title: Time-series metagenomics reveals changing protistan ecology of a temperate
+    dimictic lake
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
+  - Arianna I. Krinos
+  - Robert M. Bowers
+  - Robin R. Rohwer
+  - Katherine D. McMahon
+  - Tanja Woyke
+  - Frederik Schulz
   publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  date: '2024-02-12'
+  link: https://doi.org/hcdz6b
+  orcid: 0000-0001-9767-8392
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1038/s43705-023-00298-6
+  title: Vitamin B12 conveys a protective advantage to phycosphere-associated bacteria
+    at high temperatures
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - Margaret Mars Brisbin
+  - Alese Schofield
+  - Matthew R McIlvin
+  - Arianna I Krinos
+  - Harriet Alexander
+  - Mak A Saito
+  publisher: ISME Communications
+  date: '2023-08-25'
+  link: https://doi.org/hbbk68
+  orcid: 0000-0001-9767-8392
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/MBIO.01676-23
+  title: Eukaryotic genomes from a global metagenomic data set illuminate trophic
+    modes and biogeography of ocean plankton
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
+  - Harriet Alexander
+  - Sarah K. Hu
+  - Arianna I. Krinos
+  - Maria Pachiadaki
+  - Benjamin J. Tully
+  - Christopher J. Neely
+  - Taylor Reiter
+  publisher: mBio
+  date: '2023-12-19'
+  link: https://doi.org/hcdz6c
+  orcid: 0000-0001-9767-8392
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.11.20.567900
+  title: Microeukaryote metabolism across the western North Atlantic Ocean revealed
+    through autonomous underwater profiling
+  authors:
+  - Natalie R. Cohen
+  - Arianna I. Krinos
+  - Riss M. Kell
+  - Rebecca J. Chmiel
+  - Dawn M. Moran
+  - Matthew R. McIlvin
+  - Paloma Z. Lopez
+  - Alexander Barth
+  - Joshua Stone
+  - Brianna A. Alanis
+  - Eric W. Chan
+  - John A. Breier
+  - Michael V. Jakuba
+  - Rod Johnson
+  - Harriet Alexander
+  - Mak A. Saito
+  publisher: openRxiv
+  date: '2023-11-21'
+  link: https://doi.org/hcdz6d
+  orcid: 0000-0001-9767-8392
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.07.30.551153
+  title: Missing microbial eukaryotes and misleading meta-omic conclusions
+  authors:
+  - Arianna I. Krinos
+  - Margaret Mars Brisbin
+  - Sarah K. Hu
+  - Natalie R. Cohen
+  - Tatiana A. Rynearson
+  - Michael J. Follows
+  - Frederik Schulz
+  - Harriet Alexander
+  publisher: openRxiv
+  date: '2023-07-30'
+  link: https://doi.org/hcdz6f
+  orcid: 0000-0001-9767-8392
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/S12859-022-05121-Y
+  title: Reverse engineering environmental metatranscriptomes clarifies best practices
+    for eukaryotic assembly
+  authors:
+  - Arianna I. Krinos
+  - Natalie R. Cohen
+  - Michael J. Follows
+  - Harriet Alexander
+  publisher: BMC Bioinformatics
+  date: '2023-03-03'
+  link: https://doi.org/g732d6
+  orcid: 0000-0001-9767-8392
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/S12859-023-05313-0
+  title: 'Correction: Reverse engineering environmental metatranscriptomes clarifies
+    best practices for eukaryotic assembly'
+  authors:
+  - Arianna I. Krinos
+  - Natalie R. Cohen
+  - Michael J. Follows
+  - Harriet Alexander
+  publisher: BMC Bioinformatics
+  date: '2023-05-05'
+  link: https://doi.org/hcdz6g
+  orcid: 0000-0001-9767-8392
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.07.30.551168
+  title: "Vitamin B\n                  <sub>12</sub>\n                  conveys a\
+    \ protective advantage to phycosphere-associated bacteria at high temperatures"
+  authors:
+  - Margaret Mars Brisbin
+  - Alese Schofield
+  - Matthew McIlvin
+  - Arianna I. Krinos
+  - Harriet Alexander
+  - Mak Saito
+  publisher: openRxiv
+  date: '2023-07-30'
+  link: https://doi.org/hcdz6h
+  orcid: 0000-0001-9767-8392
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.10.15.464604
+  title: Estimating global variation in the maximum growth rates of eukaryotic microbes
+    from cultures and metagenomes via codon usage patterns
+  authors:
+  - JL Weissman
+  - Edward-Robert O. Dimbo
+  - Arianna I. Krinos
+  - Christopher Neely
+  - "Yuniba Yag\xFCes"
+  - Delaney Nolin
+  - Shengwei Hou
+  - Sarah Laperriere
+  - David A. Caron
+  - Benjamin Tully
+  - Harriet Alexander
+  - Jed A. Fuhrman
+  publisher: openRxiv
+  date: '2021-10-16'
+  link: https://doi.org/hcdz6j
+  orcid: 0000-0001-9767-8392
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.07.25.453713
+  title: Eukaryotic genomes from a global metagenomic dataset illuminate trophic modes
+    and biogeography of ocean plankton
+  authors:
+  - Harriet Alexander
+  - Sarah K. Hu
+  - Arianna I. Krinos
+  - Maria Pachiadaki
+  - Benjamin J. Tully
+  - Christopher J. Neely
+  - Taylor Reiter
+  publisher: openRxiv
+  date: '2021-07-25'
+  link: https://doi.org/gsvqqm
+  orcid: 0000-0001-9767-8392
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/FMARS.2022.867007
+  title: 'Marine Microeukaryote Metatranscriptomics: Sample Processing and Bioinformatic
+    Workflow Recommendations for Ecological Applications'
+  authors:
+  - Natalie R. Cohen
+  - Harriet Alexander
+  - Arianna I. Krinos
+  - Sarah K. Hu
+  - Robert H. Lampe
+  publisher: Frontiers in Marine Science
+  date: '2022-06-28'
+  link: https://doi.org/hcdz6k
+  orcid: 0000-0001-9767-8392
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.04.25.489326
+  title: Reverse engineering environmental metatranscriptomes clarifies best practices
+    for eukaryotic assembly
+  authors:
+  - Arianna I. Krinos
+  - Natalie R. Cohen
+  - Michael J. Follows
+  - Harriet Alexander
+  publisher: openRxiv
+  date: '2022-04-26'
+  link: https://doi.org/gszjq4
+  orcid: 0000-0001-9767-8392
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21105/joss.02817
+  title: 'EUKulele: Taxonomic annotation of the unsung eukaryotic microbes'
+  authors:
+  - Arianna Krinos
+  - Sarah Hu
+  - Natalie Cohen
+  - Harriet Alexander
+  publisher: Journal of Open Source Software
+  date: '2021-01-08'
+  link: https://doi.org/ghsqs9
+  orcid: 0000-0001-9767-8392
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/FEMSEC/FIAA248
+  title: Seasonal changes and the unexpected impact of environmental disturbance on
+    skin bacteria of individual amphibians in a natural habitat
+  authors:
+  - Jenifer B Walke
+  - Matthew H Becker
+  - Arianna Krinos
+  - Elizabeth A B Chang
+  - Celina Santiago
+  - Thomas P Umile
+  - Kevin P C Minbiole
+  - Lisa K Belden
+  publisher: FEMS Microbiology Ecology
+  date: '2020-12-05'
+  link: https://doi.org/hcdz6m
+  orcid: 0000-0001-9767-8392
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/FEDUC.2021.711618
+  title: 'The Bioinformatics Virtual Coordination Network: An Open-Source and Interactive
+    Learning Environment'
+  authors:
+  - Benjamin J. Tully
+  - Joy Buongiorno
+  - Ashley B. Cohen
+  - Jacob A. Cram
+  - Arkadiy I. Garber
+  - Sarah K. Hu
+  - Arianna I. Krinos
+  - Philip T. Leftwich
+  - Alexis J. Marshall
+  - Ella T. Sieradzki
+  - Daan R. Speth
+  - Elizabeth A Suter
+  - Christopher B. Trivedi
+  - Luis E. Valentin-Alvarado
+  - JL Weissman
+  publisher: Frontiers in Education
+  date: '2021-10-14'
+  link: https://doi.org/gm5df5
+  orcid: 0000-0001-9767-8392
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.ECOLMODEL.2020.109134
+  title: Ecosystem-scale nutrient cycling responses to increasing air temperatures
+    vary with lake trophic state
+  authors:
+  - Kaitlin J. Farrell
+  - Nicole K. Ward
+  - Arianna I. Krinos
+  - Paul C. Hanson
+  - Vahid Daneshmand
+  - Renato J. Figueiredo
+  - Cayelan C. Carey
+  publisher: Ecological Modelling
+  date: '2020-08-01'
+  link: https://doi.org/gmcf4b
+  orcid: 0000-0001-9767-8392
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ECS2.2753
+  title: 'Enhancing collaboration between ecologists and computer scientists: lessons
+    learned and recommendations forward'
+  authors:
+  - Cayelan C. Carey
+  - Nicole K. Ward
+  - Kaitlin J. Farrell
+  - Mary E. Lofton
+  - Arianna I. Krinos
+  - Ryan P. McClure
+  - Kensworth C. Subratie
+  - Renato J. Figueiredo
+  - Jonathan P. Doubek
+  - Paul C. Hanson
+  - Philip Papadopoulos
+  - Peter Arzberger
+  publisher: Ecosphere
+  date: '2019-05-01'
+  link: https://doi.org/gnxvvk
+  orcid: 0000-0001-9767-8392
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/734285
+  title: Including variability in air temperature warming scenarios in a lake simulation
+    model highlights uncertainty in predictions of cyanobacteria
+  authors:
+  - Arianna I. Krinos
+  - Kaitlin J. Farrell
+  - Vahid Daneshmand
+  - Kensworth C. Subratie
+  - Renato J. Figueiredo
+  - Cayelan C. Carey
+  publisher: openRxiv
+  date: '2019-08-15'
+  link: https://doi.org/gkz5rm
+  orcid: 0000-0001-9767-8392
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S00360-018-1173-2
+  title: 'Ocean acidification: effects of pH on 45Ca uptake by lobster branchiostegites'
+  authors:
+  - Lilian Nagle
+  - Skye Brown
+  - Arianna Krinos
+  - Gregory A. Ahearn
+  publisher: Journal of Comparative Physiology B
+  date: '2018-07-14'
+  link: https://doi.org/gd7qfj
+  orcid: 0000-0001-9767-8392
+  plugin: orcid.py
+  file: orcid.yaml

@@ -1,47 +1,76 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Translating from gene expression to model parameters
+  subtitle: Transcripts to traits
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/time_series_zoom_haldane.png
+  description: Using community gene expression data for microbial eukaryotes, the goal of this project is to recover custom, taxon-specific "traditional" model parameters
   tags:
     - resource
+    - project
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Time series gene expression data for coastal phytoplankton dynamics
+  subtitle: Water quality monitoring at high throughput
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/fixed_n_p_corr_fig.png
+  link: https://www.biorxiv.org/content/10.64898/2026.01.13.699386v1.abstract
+  description: Time-series environmental data coupled with gene expression allows us to identify genes linked to phytoplankton resilience to challenging environmental conditions, and contextualize ecological shifts that impact water quality
+  repo: akrinos/2025-coastal-trends
   tags:
-    - resource
+    - project
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Salton Sea microbial ecology
+  subtitle: At the intersection of public health and environmental research
+  image: images/temperature_stations.png
+  description: The Salton Sea is a large, hypersaline lake (CA) with impaired water quality. Via biogeochemical models and ongoing measurements, we are studying ecological dynamics that contribute to public health hazards
   tags:
-    - resource
-    - publication
+    - project
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Multiscale modeling
+  subtitle: Linking genome-scale to the water column
+  image: images/diatom.png
+  description: Work in collaboration with the C-CoMP NSF STC to develop a coupling between a genome-scale metabolic model (GEM/FBA) and a 1-D water column biogeochemical model and hence link complex biology to oceanographic dynamics
+  tags:
+    - software
+    - project
+
+
+- title: Intraspecific diversity
+  subtitle: Coccolithophores and beyond
+  image: images/ele70055-fig-0001-m.jpg
+  link: https://onlinelibrary.wiley.com/doi/10.1111/ele.70055
+  description: Studying intraspecific diversity in important phytoplankton groups can be used as a proxy for current model-relevant diversity & future capacity for resilience to changing environmental conditions
+  tags:
+    - project
+
+- title: Improving protistan taxonomic annotations
+  subtitle: Databases and software tools
+  image: images/EUKulele_schematic.png
+  link: https://eukulele.readthedocs.io/en/latest/about.html
+  description: Via tools like `EUKulele` and `tax-aliquots`, developing openly-available software and workflows to improve the fidelity of protistan taxonomic annotations
+  repo: AlexanderLabWHOI/EUKulele
   tags:
     - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Models that predict protistan trophy
+  subtitle: In the euphotic zone and at hydrothermal vents
+  image: images/plotting_heterotrophy_index.png
+  description: Identifying -omics-based indicators to predict whether a microbe is more likely a heterotroph, a phototroph, or both
   tags:
-    - software
+    - project
+    - resource
+
+
+- title: Post-hurricane microbial ecology
+  subtitle: Disturbance ecology and harmful algal blooms
+  image: images/tampa_bay.jpg
+  description: Opportunistic sampling after Hurricanes Helene and Milton in Tampa Bay (2024) to study microbial ecological impacts of disturbance. _Funding_ from Phycological Society of America Grants In Aid of Research (GIAR) program
+  tags:
+    - project
+    - resource
+
+- title: Diatom blooms in the North Bering Sea
+  subtitle: Harmful algal blooms in vulnerable coastal ecosystems
+  image: images/diatom.png
+  description: Augmenting existing efforts to study impacts of stratification in the North Bering Sea with environmental -omics data. _Funding_ from North Pacific Research Board
+  tags:
+    - project
+    - resource
