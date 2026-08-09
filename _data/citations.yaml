@@ -173,6 +173,15 @@
   orcid: 0000-0001-9767-8392
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:WOS:001365881101167
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001365881101167
+  orcid: 0000-0001-9767-8392
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.02.14.580366
   title: Intraspecific diversity in thermal performance determines phytoplankton ecological
     niche
@@ -491,6 +500,24 @@
   orcid: 0000-0001-9767-8392
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:PPRN:15021240
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:15021240
+  orcid: 0000-0001-9767-8392
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:23318422
+  title: ISSN 2331-8422 - ArXiv.org
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/23318422
+  orcid: 0000-0001-9767-8392
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/J.ECOLMODEL.2020.109134
   title: Ecosystem-scale nutrient cycling responses to increasing air temperatures
     vary with lake trophic state
@@ -505,6 +532,15 @@
   publisher: Ecological Modelling
   date: '2020-08-01'
   link: https://doi.org/gmcf4b
+  orcid: 0000-0001-9767-8392
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000460620904124
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000460620904124
   orcid: 0000-0001-9767-8392
   plugin: orcid.py
   file: orcid.yaml
@@ -546,6 +582,22 @@
   orcid: 0000-0001-9767-8392
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:WOS:000460620901191
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000460620901191
+  orcid: 0000-0001-9767-8392
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Ocean acidification: effects of pH on 45Ca uptake by lobster branchiostegites'
+  publisher: Journal of Comparative Physiology B
+  date: '2018-07-29'
+  link: https://link.springer.com/article/10.1007/s00360-018-1173-2
+  orcid: 0000-0001-9767-8392
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/S00360-018-1173-2
   title: 'Ocean acidification: effects of pH on 45Ca uptake by lobster branchiostegites'
   authors:
@@ -556,6 +608,15 @@
   publisher: Journal of Comparative Physiology B
   date: '2018-07-14'
   link: https://doi.org/gd7qfj
+  orcid: 0000-0001-9767-8392
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000398668700364
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000398668700364
   orcid: 0000-0001-9767-8392
   plugin: orcid.py
   file: orcid.yaml
