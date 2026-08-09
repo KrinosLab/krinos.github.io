@@ -56,6 +56,12 @@ jobs:
         if: runner.debug == '1'
         uses: mxschmitt/action-tmate@v3
 
+      - name: Clear local SQLite citation cache
+        run: |
+          rm -rf _cite/.cache/
+          rm -rf .cache 
+          rm -rf ~/.cache/manubot/   
+
       - name: Build updated citations
         if: github.event.action != 'closed'
         run: python _cite/cite.py
